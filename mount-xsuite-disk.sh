@@ -2,7 +2,7 @@
 
 VMDK="/data/virtuals/xsuite/xsuite-2.4.4.9-disk1.vmdk"
 FLATDISK='/data/virtuals/xsuite/disk/'
-DM_DEVNAME='xceed2-root'
+DM_DEVNAME='xsuite2-root'
 MNT_ROOT='/data/virtuals/xsuite/ROOT'
 MNT_BOOT='/data/virtuals/xsuite/BOOT'
 ROOTKEY="${MNT_BOOT}/rootkey.gpg"

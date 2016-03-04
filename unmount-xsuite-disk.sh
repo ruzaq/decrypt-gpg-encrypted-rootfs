@@ -3,7 +3,7 @@
 umount /data/virtuals/xsuite/ROOT
 umount /data/virtuals/xsuite/BOOT
 
-cryptsetup remove /dev/mapper/xceed2-root
+cryptsetup remove /dev/mapper/xsuite2-root
 
 sleep 2
 losetup -d /dev/loop1 
